@@ -1,0 +1,29 @@
+
+
+.sample {
+	margin: 16px auto;
+	text-align: center;
+	display: block;
+	border: 1px solid #000;
+}
+.sample .text {
+	text-align: left;
+	display: inline-block;
+    font-size:  24px;
+}
+
+.icon{
+    margin: 16px auto;
+	/* text-align: right; */
+	display: block;
+	/* border: 1px solid #000; */
+    width: fit-content;
+    border-width : 1px;
+    border-style : solid;
+    padding : 1px;
+}
+.icon .item{
+    /* text-align: center; */
+	display: inline-block;
+    font-size:  24px;
+}
