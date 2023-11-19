@@ -1,0 +1,95 @@
+.main {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  column-gap: 16px;
+}
+
+.titlebar {
+  display: grid;
+  grid-template-columns: 1fr auto;
+}
+
+.searchbox {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.search-input {
+  height: 32px;
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0 16px;
+  margin: 0;
+  box-sizing: content-box;
+  width: 320px;
+}
+
+.search-button {
+  height: 32px;
+  background: white;
+  border: 1px solid black;
+  border-radius: 4px;
+  box-sizing: content-box;
+  padding: 0 16px;
+}
+
+.search-button:hover {
+  background: gray;
+}
+
+.artist-navi {
+  list-style: none;
+  max-width: calc(32px * 5);
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+}
+
+.artist-navi > li {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hidden {
+  visibility: hidden;
+}
+
+.content {
+  grid-column: 2/3;
+}
+
+.content > .prefix {
+  text-align: center;
+}
+
+.sidemenu {
+  grid-column: 1/2;
+}
+
+.sidemenu > h3 {
+  text-align: center;
+}
+
+.artist-list {
+  list-style: none;
+  padding: 0;
+  margin: 32px;
+}
+
+.artist-list > li {
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
+
+.artist-list > li > a {
+  color: #3b89ff;
+}
+
+.artist-list > li > a:hover {
+  color: #73abff;
+}
