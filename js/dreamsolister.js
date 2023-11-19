@@ -20,29 +20,29 @@ const LyricData = [
     '<p class="intro_ges">縦振り<img src="/figure/pen_light.png" alt="ペンライトの画像">＆掛け声<img src="/figure/call.png" alt="掛け声の画像"></p>'
   ),
 
-  new Lyric('叶えたいことが溢れてるから　　　', 0),
-  new Lyric('立ち止まってる暇なんてないよね', 5000),
+  new Lyric('叶えたいことが溢れてるから　　　', 16000),
+  new Lyric('立ち止まってる暇なんてないよね', 6000),
   new NaviElement(
     `<p class="first_gesture">
     縦振り<img src="/figure/pen_light.png" alt="ペンライトの画像" />
   </p>`
   ),
-  new Lyric('胸に秘めたあこがれを　', 1000),
-  new Lyric('フルボリュームで届けよう', 1000),
+  new Lyric('胸に秘めたあこがれを　', 5000),
+  new Lyric('フルボリュームで届けよう', 3000),
   new NaviElement(`      <p class="second_gesture">
   縦振り<img src="/figure/pen_light.png" alt="ペンライトの画像" />
 </p>`),
-  new Lyric('行こう．．．クレッシェンドの向こうへ', 1000),
+  new Lyric('行こう．．．クレッシェンドの向こうへ', 3500),
   new NaviElement(`<p class="third_gesture">
   伸ばし<img src="/figure/pen_light.png" alt="ペンライトの画像" />
 </p>`),
-  new Lyric('つまづいてもいい　', 1000),
-  new Lyric('はみだしてもいい', 1000),
+  new Lyric('つまづいてもいい　', 5000),
+  new Lyric('はみだしてもいい', 3500),
   new NaviElement(`<p class="fourth_gesture">
   縦振り<img src="/figure/pen_light.png" alt="ペンライトの画像" />
 </p>`),
-  new Lyric('君の音色を　', 1000),
-  new Lyric('僕たちは待っている', 1000),
+  new Lyric('君の音色を　', 3000),
+  new Lyric('僕たちは待っている', 2000),
   new NaviElement(`<p class="fifth_gesture">
 盛り上がれ！！<img
   src="/figure/moriagare.png"
@@ -53,13 +53,13 @@ const LyricData = [
   new NaviElement(
     `<p style="color: rgb(255, 140, 0)" class="chorus">****サビ****</p>`
   ),
-  new Lyric('響け！　　　　　　', 1000),
-  new Lyric('生まれたての夢詰め込んで', 1000),
+  new Lyric('響け！　　　　　　', 9000),
+  new Lyric('生まれたての夢詰め込んで', 2000),
   new NaviElement(`<p class="sixth_ges">
 ジャンプ！<img src="/figure/call.png" alt="掛け声の画像" />
 </p>`),
-  new Lyric('大きな空へ　　　', 1000),
-  new Lyric('今旅立とう', 1000),
+  new Lyric('大きな空へ　　　', 4000),
+  new Lyric('今旅立とう', 3000),
   new NaviElement(`<p class="left_image">
 <span class="seventh_ges"
   >縦振り<img src="/figure/pen_light.png" alt="ペンライトの画像"
@@ -69,27 +69,27 @@ const LyricData = [
   伸ばし<img src="/figure/pen_light.png" alt="ペンライトの画像"
 /></span>
 </p>`),
-  new Lyric('拓け！　　　　　　', 1000),
-  new Lyric('笑顔を味方につけて', 1000),
+  new Lyric('拓け！　　　　　　', 3000),
+  new Lyric('笑顔を味方につけて', 1700),
   new NaviElement(`<p>
 <span class="ninth_ges"
   >ジャンプ！<img src="/figure/call.png" alt="掛け声の画像"
 /></span>
 </p>`),
-  new Lyric('離さない　　　', 1000),
-  new Lyric('あきらめたくない', 1000),
+  new Lyric('離さない　　　', 5000),
+  new Lyric('あきらめたくない', 3000),
   new NaviElement(`<p class="tenth_ges">
 思うがままに縦振り<img
   src="/figure/pen_light.png"
   alt="ペンライトの画像"
 />
 </p>`),
-  new Lyric('限界さえも　　　', 1000),
-  new Lyric('跳ね返す勇気で', 1000),
+  new Lyric('限界さえも　　　', 5000),
+  new Lyric('跳ね返す勇気で', 2000),
   new NaviElement(`<p class="elev_ges">
     伸ばす<img src="/figure/pen_light.png" alt="ペンライトの画像" />
   </p>`),
-  new Lyric('DREAM SOLISTER', 1000),
+  new Lyric('DREAM SOLISTER', 5000),
   new NaviElement(`<p class="twel_ges">
   伸ばす<img src="/figure/pen_light.png" alt="ペンライトの画像" />
 </p>`),
