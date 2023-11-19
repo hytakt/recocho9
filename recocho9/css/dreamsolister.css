@@ -1,0 +1,125 @@
+
+.song_name {
+  margin-left: 5%;
+  margin-bottom: 10%;
+}
+
+.sound_source{
+  margin-left: 5%;
+}
+
+.header {
+  margin-left: 5%;
+}
+
+.detail_song {
+  margin-left: 8%;
+  margin-top: 0%;
+}
+
+.kumiko {
+  width: 300px; /* 任意の幅に設定 */
+  height: auto; /* 高さを自動調整 */
+  margin-left: 20%;
+}
+h3 {
+  margin-left: 65%;
+}
+
+.tip_sound {
+  margin-left: 5%;
+  color: rgb(69, 212, 69);
+}
+
+.header,
+.kumiko {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.goods {
+  border: 1px dashed red; 
+  /* margin-right: 60%; */
+  margin-left: 60%;
+  padding: 10px;
+}
+
+.moriagare {
+  width: 100px;
+  height: auto;
+}
+
+.chorus {
+  font-size: 30px;
+}
+
+.first_gesture {
+  color: red;
+  margin-right: 50%;
+}
+
+.second_gesture {
+  color: red;
+  margin-right:35%
+}
+
+.third_gesture {
+  color: red;
+  margin-left: 30%;
+}
+
+.fourth_gesture {
+  color: red;
+  margin-right: 30%;
+}
+
+.fifth_gesture {
+  color: red;
+  margin-left: 30%;
+}
+
+.sixth_ges {
+  color:red;
+  margin-right: 12%;
+}
+
+.left_image {
+  text-align: left;
+}
+
+.seventh_ges {
+  color:red;
+  margin-left: 450px;
+}
+
+.eighth_ges {
+  color: red;
+  margin-left: 80px;
+}
+
+.ninth_ges {
+  color: red;
+  margin-right: 50px;
+}
+
+.tenth_ges {
+  color:red;
+}
+
+.elev_ges {
+  color: red;
+  margin-left: 300px;
+}
+
+.twel_ges {
+  color: red;
+  margin-left: 200px;
+}
+
+.lyrics {
+  text-align: center;
+}
+
+.lyric_sentence {
+  font-size: 24px;
+}
