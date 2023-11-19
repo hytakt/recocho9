@@ -1,7 +1,21 @@
+.song_intro {
+  color: rgb(255, 196, 0);
+  text-align: center;
+  font-size: 24px;
+}
 
+.intro_ges {
+  color:red;
+}
 .song_name {
-  margin-left: 5%;
+  /* margin-left: 5%; */
   margin-bottom: 10%;
+  font-family: 'Roboto', sans-serif;
+  background-color: aqua;
+  border-radius: 50px;
+  filter:drop-shadow(10px 10px 2px #4e4e4e);
+  font-size: 40px;
+  padding: 15px;
 }
 
 .sound_source{
@@ -10,6 +24,7 @@
 
 .header {
   margin-left: 5%;
+  /* width: 500px; */
 }
 
 .detail_song {
@@ -20,8 +35,9 @@
 .kumiko {
   width: 300px; /* 任意の幅に設定 */
   height: auto; /* 高さを自動調整 */
-  margin-left: 20%;
+  margin-left: 200px;
 }
+
 h3 {
   margin-left: 65%;
 }
@@ -39,8 +55,9 @@ h3 {
 
 .goods {
   border: 1px dashed red; 
-  /* margin-right: 60%; */
-  margin-left: 60%;
+  margin-right: 300px;
+  margin-left: 300px;
+  text-align: center;
   padding: 10px;
 }
 
