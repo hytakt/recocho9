@@ -13,7 +13,7 @@
 }
 
 .icon{
-    margin: 16px auto;
+    /* margin-left: auto; */
 	/* text-align: right; */
 	display: block;
 	/* border: 1px solid #000; */
@@ -26,4 +26,10 @@
     /* text-align: center; */
 	display: inline-block;
     font-size:  24px;
+}
+
+.info {
+    display: flex;
+    gap: 400px;
+    /* align-items: center; */
 }
